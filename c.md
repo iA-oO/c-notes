@@ -612,6 +612,7 @@ e.g.:
 ![](https://pad.degrowth.net/uploads/upload_7ec9d5c1b56cacdcb90c980468d47fae.png)
 ![](https://pad.degrowth.net/uploads/upload_be2d21544b592a5e5a2ae0f5c1660178.png)
 ![](https://pad.degrowth.net/uploads/upload_df83b22c3abbeece9fa6627e42b47308.png)
+![截图 (3)](https://github.com/iA-oO/notes/assets/138574037/bab1f104-86bb-49ef-9ccd-4861c5dea0c9)
 ![](https://pad.degrowth.net/uploads/upload_6501e50d12b29b89fc2f36339c40b406.png)
 ![](https://pad.degrowth.net/uploads/upload_360ba5eb0da18ade3c15a49ee987116d.png)
 
