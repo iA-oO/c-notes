@@ -627,5 +627,212 @@ e.g.:
 （见10.4）
 ![](https://pad.degrowth.net/uploads/upload_607e71cc9befd3a763a8d1776c3cc8d2.png)
 ![](https://pad.degrowth.net/uploads/upload_ae473d58a29cd7a7f7231ba60b4b4698.png)
+![](https://pad.degrowth.net/uploads/upload_630f7aaf674ee3f1b16054005d449c08.png)
+![](https://pad.degrowth.net/uploads/upload_cb0053307c7c6fba6ae4bfd85bde82ea.png)
+
+#### 使用
+##### ①
+![](https://pad.degrowth.net/uploads/upload_cc8b94b1a0b9601bfe08b274bf3deb5a.png)
+
+##### ②
+写法1：
+![](https://pad.degrowth.net/uploads/upload_00cbc241c6bfb3915a7aa98e06a5d01d.png)
+写法2：
+![](https://pad.degrowth.net/uploads/upload_a0d02358939817f5ecdde9ca24557fd7.png)
+![](https://pad.degrowth.net/uploads/upload_bb6108efddb20609b76de26dafa322df.png)
+
+##### ③分析代码意思
+![](https://pad.degrowth.net/uploads/upload_87076dbbe14f1c3b8426cee9ca946e6a.png)
+![](https://pad.degrowth.net/uploads/upload_677672522b6f57b19039141350142625.png)
+
+### （3）数组参数、指针参数
+#### ①一维数组传参
+![](https://pad.degrowth.net/uploads/upload_bb2b7b13355ca9e9e123f508b368aa79.png)
+#### ②二维数组传参
+![](https://pad.degrowth.net/uploads/upload_db93b7f0010723fe954a804f6a8ce9a5.png)
+![](https://pad.degrowth.net/uploads/upload_3e167206fa34060a1601f66e9b7eb909.png)
+
+#### ③一级指针传参
+![](https://pad.degrowth.net/uploads/upload_257d5a012d3fdcc2fd499a33c3e1f424.png)
+![](https://pad.degrowth.net/uploads/upload_ff69cf00640d32142c7626d6e7d624df.png)
+![](https://pad.degrowth.net/uploads/upload_83a02731b01152e15ccd265a0f025bb4.png)
+
+#### ④二级级指针传参
+![](https://pad.degrowth.net/uploads/upload_e8058f9cd9b0b067933311111f7dd7d7.png)
+![](https://pad.degrowth.net/uploads/upload_aca17498c43e1a24a917ea28b22d5014.png)
+
+### （4）梳理
+![](https://pad.degrowth.net/uploads/upload_9fbae9f9f1c72df280ded754d32bd314.png)
+
+## 8，函数指针
+### （1）概念
+![](https://pad.degrowth.net/uploads/upload_f78a999ec047c6acd289b3d5e5581837.png)
+![](https://pad.degrowth.net/uploads/upload_3665fcd40d019a72e656dfb559cdee0e.png)
+
+### （2）数组、数组名
+![](https://pad.degrowth.net/uploads/upload_659a426fb04ba7ab1f128b85046a3257.png)
+![](https://pad.degrowth.net/uploads/upload_41e7d2a72f21199472c2f85575d132b7.png)
+
+### （3）练习，写法
+#### ①
+![](https://pad.degrowth.net/uploads/upload_ab08c73cfa4cec84ef315a7409ae9b5e.png)
+![](https://pad.degrowth.net/uploads/upload_47187e4c715278d457edd6ba3609a099.png)
+![](https://pad.degrowth.net/uploads/upload_6e81d30ba80a30c660e89772ba9428dd.png)
+![](https://pad.degrowth.net/uploads/upload_1e859f411cf0777d3dd326f90927b8e9.png)
+![](https://pad.degrowth.net/uploads/upload_aeeb12e3dd009d6f967dc6d01565ab5d.png)
+![](https://pad.degrowth.net/uploads/upload_9975d1c620999d5be57186b296c4d044.png)
+总结：
+![](https://pad.degrowth.net/uploads/upload_0df59c013ab1d467aa4ad9c0dadeaa08.png)
+
+#### ②
+![](https://pad.degrowth.net/uploads/upload_e917735e83db39add26890177b3a8703.png)
+![](https://pad.degrowth.net/uploads/upload_739335fd16641a7268120b4c7583e339.png)
+![](https://pad.degrowth.net/uploads/upload_05a1ab34d5dfd58ed39bf9839f50715b.png)
+
+## 9，函数指针数组
+### （1）概念
+![](https://pad.degrowth.net/uploads/upload_f7285df562ce3c1140cdf148a2623410.png)
+![](https://pad.degrowth.net/uploads/upload_d5d115cd786401cdc126f18840d9a272.png)
+
+### （2）实例
+![](https://pad.degrowth.net/uploads/upload_4cce1f4ebdedebf78ad686be32d7936b.png)
+![](https://pad.degrowth.net/uploads/upload_8ca28b02e01f56f8bfc8ecd42f6e5010.png)
+![](https://pad.degrowth.net/uploads/upload_ff466feb9f911f699d4b64a9f9965a67.png)
+![](https://pad.degrowth.net/uploads/upload_abf43f1a02e7257d6fa97adce24180f8.png)
+![](https://pad.degrowth.net/uploads/upload_9a4fb2d3bf5ead2795920d4825554024.png)
+
+## 10，指向函数指针数组的指针，概念梳理
+![](https://pad.degrowth.net/uploads/upload_e59d2ad694d8db7b5dbf8d285e0650d7.png)
+![](https://pad.degrowth.net/uploads/upload_9b9e5180e226d617593c63ed1260ee01.png)
+
+## 11，回调函数
+### （1）概念
+![](https://pad.degrowth.net/uploads/upload_1deaf81b5e87e61636f3b3e1fc96dc2f.png)
+![](https://pad.degrowth.net/uploads/upload_d715883e0a27248aaf30893a8aa2bc09.png)
+
+### （2）实例
+（前同9.2实例）
+![](https://pad.degrowth.net/uploads/upload_bf6dbebbdf308f91a3f488f2be4a590d.png)
+![](https://pad.degrowth.net/uploads/upload_9abf418f537b3dc5cf7b2afc2af0bcbf.png)
+![](https://pad.degrowth.net/uploads/upload_f406dc50da898e4e87225b33a5a8defa.png)
+![](https://pad.degrowth.net/uploads/upload_bf28e1b1733a64cf674cbe3912b96a4b.png)
+
+### （3）qsort函数
+
+# 13.结构体
+## 1，结构体（8）
+### （1）结构体类型的声明
+#### ①概念
+![](https://pad.degrowth.net/uploads/upload_bf636c21a90d2b36e6fd2dccefc0dbf6.png)
+![](https://pad.degrowth.net/uploads/upload_17513c1a4a2bf7c6ac507ea3798fdda9.png)
+![](https://pad.degrowth.net/uploads/upload_f0de7c158b9fb055b6f9f7320f0d202b.png)
+![](https://pad.degrowth.net/uploads/upload_3566d882456619ef0875eefca4f1358d.png)
+
+#### ②变量定义和初始化
+![](https://pad.degrowth.net/uploads/upload_ceb37036dab68ddb53e52748464abfba.png)
+![](https://pad.degrowth.net/uploads/upload_f039d5c5439bc513cf5910d292701494.png)
+
+### （2）结构体成员的访问
+![](https://pad.degrowth.net/uploads/upload_ed1ee26402c8deba9a06c5f2092fb8a0.png)
+![](https://pad.degrowth.net/uploads/upload_61988ae606dfa03a2338e9f93308a56d.png)
+![](https://pad.degrowth.net/uploads/upload_ddf02827e7f76d043dd465e1b214d480.png)
+
+### （3）结构体传参
+#### ①方法
+![](https://pad.degrowth.net/uploads/upload_a1ab72b620de9dee12b5770ef7b96aa8.png)
+![](https://pad.degrowth.net/uploads/upload_2fd68a97ee2dba13eecfb30d1d72f02c.png)
+![](https://pad.degrowth.net/uploads/upload_a15708f97b8dcce7d54a893aacd0b669.png)
+![](https://pad.degrowth.net/uploads/upload_197fcf639f4fdf0b07134cd7689d8523.png)
+![](https://pad.degrowth.net/uploads/upload_32f2b504d914a2c6a4b3d27c643c0d26.png)
+
+#### ②参数压栈
+![](https://pad.degrowth.net/uploads/upload_059ff11f88cc1bc45c2deeb38da99043.png)
+![](https://pad.degrowth.net/uploads/upload_e1b93235b0f9ca3d0b733b2d88851d74.png)
+走完之后main函数占用的空间也会还给它
+传结构体到时候压栈空间可能比较大，效率比较低，用传指针的方式只传4个字节，效率更高一些
+具体可了解：
+![](https://pad.degrowth.net/uploads/upload_9b2a83804be44f58dbe626a89fe9c6ce.png)
+
+## 2，链表
+### （1）概念
+![](https://pad.degrowth.net/uploads/upload_9f8d7e6292d40c2ac11b053817fa4df5.png)
+
+### （2）链表结点的结构
+![](https://pad.degrowth.net/uploads/upload_77d9ef48ba40525c7efb770e7764a7d3.png)
+![](https://pad.degrowth.net/uploads/upload_6d8b888879ccc4498b84b802dfb4cd5a.png)
+
+### （3）双链表
+![](https://pad.degrowth.net/uploads/upload_3ecc2ccbf352688e2d0e2332610702e5.png)
+![](https://pad.degrowth.net/uploads/upload_8a8272b2bf075cceae0fd817a467099d.png)
+![](https://pad.degrowth.net/uploads/upload_08996042e91f6b4d70275d4469e18402.png)
+![](https://pad.degrowth.net/uploads/upload_cf32b3e6138d2dfb7fbec65f1c158ba4.png)
+
+### （4）搜查
+#### ①概念
+![](https://pad.degrowth.net/uploads/upload_e2dade72188e30115e9084f1a5267dd1.png)
+![](https://pad.degrowth.net/uploads/upload_35ea4feb67f314339feabd7d14608be6.png)
+
+#### ②e.g.1
+![](https://pad.degrowth.net/uploads/upload_b582c511db32b2198852875e6b295827.png)
+![](https://pad.degrowth.net/uploads/upload_c3c1833b8c5f7a7e4877ed4115f0f2e2.png)
+![](https://pad.degrowth.net/uploads/upload_7027554b736e9275556abbf59470a321.png)
+
+#### ③e.g.2
+![](https://pad.degrowth.net/uploads/upload_efe7262176b97272754c64512b3f0b10.png)
+![](https://pad.degrowth.net/uploads/upload_8846b085efb90945e11dece581a21405.png)
+
+### （5）插入
+#### ①概念
+![](https://pad.degrowth.net/uploads/upload_45503ca0f366ddcd66c6b3b0b324d9c6.png)
+![](https://pad.degrowth.net/uploads/upload_48bf629fc16e57faef9c4d3d29082b2d.png)
+![](https://pad.degrowth.net/uploads/upload_9dd2b030fbb9b3326a946b085cadb5d8.png)
+
+#### ②e.g.
+![](https://pad.degrowth.net/uploads/upload_78376fb97a8b1bf4c834ab5b269e0012.png)
+![](https://pad.degrowth.net/uploads/upload_807ac32a43a981376c0d16f15c452985.png)
+![](https://pad.degrowth.net/uploads/upload_02ebae43fe3e7176dd922f6471010111.png)
+![](https://pad.degrowth.net/uploads/upload_85a3b17b66c41193bc156cfccf996d76.png)
+
+### （6）删除
+#### ①概念
+![](https://pad.degrowth.net/uploads/upload_b4a1799427b44b7ddac622db6f53de77.png)
+![](https://pad.degrowth.net/uploads/upload_0b9a727f23e91460079c19966fc7806a.png)
+
+#### ②e.g.
+![](https://pad.degrowth.net/uploads/upload_98d2ed4f90179d41937cc2566a7af119.png)
+![](https://pad.degrowth.net/uploads/upload_cde25571921ec26cc5db269afff9261f.png)
+![](https://pad.degrowth.net/uploads/upload_d01c700ad31faa0e46195304803b1ada.png)
+
+### （7）单链表
+#### ①单链表的基本结构
+![](https://pad.degrowth.net/uploads/upload_1c75f7f4b407bd625351eafda0e14d94.png)
+![](https://pad.degrowth.net/uploads/upload_76b0b2354ba3fb0d2785fddb344fc125.png)
+
+#### ②单链表元素的添加、删除
+![](https://pad.degrowth.net/uploads/upload_e1c39d6faad179c546621408022e0de9.png)
+
+### （8）哨兵
+#### ①概念
+![](https://pad.degrowth.net/uploads/upload_d61b58ff49b6c5a724162797cb4ff9b7.png)
+
+#### ②删除的e.g.
+![](https://pad.degrowth.net/uploads/upload_2104f63e80a894e8bcc3a609db22a1b9.png)
+![](https://pad.degrowth.net/uploads/upload_5589b600ac99f54c5577d8708160a5ba.png)
+![](https://pad.degrowth.net/uploads/upload_e9590ed43d5893cd2578809871647491.png)
+![](https://pad.degrowth.net/uploads/upload_f28c9a545f403424f6eecbe7ee02bdf8.png)
+
+#### ③搜查
+![](https://pad.degrowth.net/uploads/upload_15e038144fe6ca2fc058093a8348f2bb.png)
+
+#### ④插入
+![](https://pad.degrowth.net/uploads/upload_8f2e4976238704b17db8f9f847d86e96.png)
+
+#### ⑤意义
+![](https://pad.degrowth.net/uploads/upload_6111a4bbdd27ceffc45659600470813f.png)
+
+
+
+
+
 
 
