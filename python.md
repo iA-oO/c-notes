@@ -67,6 +67,7 @@
 ![image](http://l1q.one:8080/i/2023/07/18/qsth91.png)
 ![image](http://l1q.one:8080/i/2023/07/18/qtdp4j.png)
 ![image](http://l1q.one:8080/i/2023/07/18/quws32.png)
+从左往右以 0 开始，从右往左以 -1 开始。
 
 ### （2）字符串与名字的区别
 ![image](http://l1q.one:8080/i/2023/07/18/r3zfhh.png)
