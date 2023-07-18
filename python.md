@@ -23,7 +23,7 @@
 ![image](http://l1q.one:8080/i/2023/07/18/hdy66v.png)
 ![](http://l1q.one:8080/i/2023/07/18/hg8v8b.png)
 
-#### ③进制
+#### ②进制
 ![image](http://l1q.one:8080/i/2023/07/18/i746js.png)
 ![image](http://l1q.one:8080/i/2023/07/18/i8vqhg.png)
 
